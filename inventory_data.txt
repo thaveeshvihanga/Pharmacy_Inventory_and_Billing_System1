@@ -1,0 +1,26 @@
+Product Count: 4
+Product Name: g
+Generic Name: G
+Batch Number: 1
+Expiry Date: 2023
+Quantity: 5
+Price: 150.00
+Product Name: a
+Generic Name: A
+Batch Number: 2
+Expiry Date: 2024
+Quantity: 12
+Price: 120.00
+Product Name: Paracetamol
+Generic Name: Acetaminophen
+Batch Number: 3
+Expiry Date: 2023-12-15
+Quantity: 15
+Price: 36.50
+Product Name: Ibuprofen
+Generic Name: Ibuprofen G
+Batch Number: 3
+Expiry Date: 2024-04-02
+Quantity: 20
+Price: 50.00
+Supplier Count: 0
